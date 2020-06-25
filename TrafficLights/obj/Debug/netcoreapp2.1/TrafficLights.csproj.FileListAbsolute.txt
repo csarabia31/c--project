@@ -1,0 +1,11 @@
+C:\Users\camil\source\repos\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.deps.json
+C:\Users\camil\source\repos\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.json
+C:\Users\camil\source\repos\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.dev.json
+C:\Users\camil\source\repos\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\camil\source\repos\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.pdb
+C:\Users\camil\source\repos\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csprojAssemblyReference.cache
+C:\Users\camil\source\repos\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfo.cs
+C:\Users\camil\source\repos\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\camil\source\repos\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.pdb
